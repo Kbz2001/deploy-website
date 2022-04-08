@@ -1,0 +1,35 @@
+html{
+    width: 100%;
+    height: 90%;
+}
+
+.home_title{
+    width: 25px;
+    height: 100px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 50px 150px 68px 40rem;
+    font-size: 5rem;
+    font-family: "Copperplate Gothic Light", cursive;
+    cursor: default;
+}
+
+.logo{
+    width: 100%;
+    height: 50%;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 50%;
+}
+.home_paragraph{
+    width: 700px;
+    height: 20px;
+    font-size: 20px;
+    margin: 7.5rem 25rem 10rem -10rem;
+    font-family: "Century Dark", cursive;
+    color: blueviolet;
+}
